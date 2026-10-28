@@ -1,0 +1,22 @@
+{
+  "name": "ekiy-emu",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run": "node --experimental-strip-types --no-warnings src/main.ts",
+    "serve": "node --experimental-strip-types --no-warnings src/server.ts --stub",
+    "serve:mod": "node --experimental-strip-types --no-warnings src/server.ts --stub --overlay overlay",
+    "check-decode": "node --experimental-strip-types --no-warnings test/check-decode.ts",
+    "test": "node --experimental-strip-types --no-warnings test/alu-fuzz.ts && node --experimental-strip-types --no-warnings test/check-decode.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  },
+  "description": "Application-level Melis emulator for the EKIY F133-B display",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}

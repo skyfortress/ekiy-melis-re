@@ -1,0 +1,28 @@
+# Private firmware inputs and generated resources
+/dumps/
+/unpacked*/
+/build/
+/roundtrip/
+/analysis/
+/refs/
+*.bin
+*.axf
+*.mod
+*.drv
+*.fex
+*.data
+*.mp4
+*.tar.gz
+state/
+state-*/
+overlay/
+frames/
+screenshots/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Only deliberately reviewed documentation images may be committed.
+*.png
+!docs/img/*.png

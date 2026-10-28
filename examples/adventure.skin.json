@@ -1,0 +1,460 @@
+{
+  "images": {
+    "0": "assets/background.png",
+    "9": "assets/ring.png",
+    "10": "assets/mountain.png",
+    "11": "assets/carplay.png",
+    "12": "assets/carplay_pressed.png",
+    "13": "assets/android.png",
+    "14": "assets/android_pressed.png",
+    "15": "assets/dock_background.png",
+    "16": "assets/apps.png",
+    "17": "assets/apps_pressed.png",
+    "18": "assets/tf.png",
+    "19": "assets/tf_pressed.png",
+    "20": "assets/setup.png",
+    "21": "assets/setup_pressed.png",
+    "22": "assets/bt.png",
+    "23": "assets/bt_pressed.png",
+    "24": "assets/bt_ear.png",
+    "25": "assets/bt_ear_pressed.png"
+  },
+  "rects": [
+    {
+      "window": 2,
+      "child": 1,
+      "xywh": [
+        336,
+        177,
+        128,
+        95
+      ]
+    },
+    {
+      "window": 2,
+      "child": 2,
+      "xywh": [
+        99,
+        85,
+        170,
+        160
+      ]
+    },
+    {
+      "window": 2,
+      "child": 3,
+      "xywh": [
+        533,
+        85,
+        170,
+        160
+      ]
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "xywh": [
+        330,
+        8,
+        140,
+        80
+      ]
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "xywh": [
+        46,
+        8,
+        140,
+        80
+      ]
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "xywh": [
+        186,
+        8,
+        140,
+        80
+      ]
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "xywh": [
+        479,
+        8,
+        140,
+        80
+      ]
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "xywh": [
+        617,
+        8,
+        140,
+        80
+      ]
+    }
+  ],
+  "fields": [
+    {
+      "window": 1,
+      "child": 5,
+      "off": "0xf8",
+      "u32": "0x76"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2ac",
+      "u32": "0x0"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2b0",
+      "u32": "0x2c"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2b4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2b8",
+      "u32": "0x20"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2c0",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2c4",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2c8",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2cc",
+      "u32": "0x808080"
+    },
+    {
+      "window": 3,
+      "child": 0,
+      "off": "0x2d8",
+      "u32": "0x19"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2ac",
+      "u32": "0x0"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2b0",
+      "u32": "0x2c"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2b4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2b8",
+      "u32": "0x20"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2c0",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2c4",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2c8",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2cc",
+      "u32": "0x808080"
+    },
+    {
+      "window": 3,
+      "child": 1,
+      "off": "0x2d8",
+      "u32": "0x19"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2ac",
+      "u32": "0x0"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2b0",
+      "u32": "0x2c"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2b4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2b8",
+      "u32": "0x20"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2c0",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2c4",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2c8",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2cc",
+      "u32": "0x808080"
+    },
+    {
+      "window": 3,
+      "child": 2,
+      "off": "0x2d8",
+      "u32": "0x19"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2ac",
+      "u32": "0x0"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2b0",
+      "u32": "0x2c"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2b4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2b8",
+      "u32": "0x20"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2c0",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2c4",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2c8",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2cc",
+      "u32": "0x808080"
+    },
+    {
+      "window": 3,
+      "child": 3,
+      "off": "0x2d8",
+      "u32": "0x19"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2ac",
+      "u32": "0x0"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2b0",
+      "u32": "0x2c"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2b4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2b8",
+      "u32": "0x20"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2c0",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2c4",
+      "u32": "0x38c2f8"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2c8",
+      "u32": "0xffffff"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2cc",
+      "u32": "0x808080"
+    },
+    {
+      "window": 3,
+      "child": 4,
+      "off": "0x2d8",
+      "u32": "0x19"
+    },
+    {
+      "window": 2,
+      "child": 4,
+      "off": "0x19c",
+      "u32": "0x148"
+    },
+    {
+      "window": 2,
+      "child": 4,
+      "off": "0x1a0",
+      "u32": "0x7b"
+    },
+    {
+      "window": 2,
+      "child": 4,
+      "off": "0x1a4",
+      "u32": "0x90"
+    },
+    {
+      "window": 2,
+      "child": 4,
+      "off": "0x1a8",
+      "u32": "0x2d"
+    },
+    {
+      "window": 2,
+      "child": 5,
+      "off": "0x19c",
+      "u32": "0x144"
+    },
+    {
+      "window": 2,
+      "child": 5,
+      "off": "0x1a0",
+      "u32": "0xb4"
+    },
+    {
+      "window": 2,
+      "child": 5,
+      "off": "0x1a4",
+      "u32": "0x98"
+    },
+    {
+      "window": 2,
+      "child": 5,
+      "off": "0x1a8",
+      "u32": "0x13"
+    },
+    {
+      "window": 2,
+      "child": 6,
+      "off": "0x19c",
+      "u32": "0x14a"
+    },
+    {
+      "window": 2,
+      "child": 6,
+      "off": "0x1a0",
+      "u32": "0x5b"
+    },
+    {
+      "window": 2,
+      "child": 6,
+      "off": "0x1a4",
+      "u32": "0x8c"
+    },
+    {
+      "window": 2,
+      "child": 6,
+      "off": "0x1a8",
+      "u32": "0x1e"
+    },
+    {
+      "window": 2,
+      "child": 6,
+      "off": "0x1c8",
+      "u32": "0x19"
+    }
+  ]
+}

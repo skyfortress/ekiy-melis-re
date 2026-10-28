@@ -1,0 +1,7 @@
+{
+  "images": {},
+  "rects": [],
+  "fields": [
+    { "window": 1, "child": 5, "off": "0xf8", "u32": "0x76" }
+  ]
+}
